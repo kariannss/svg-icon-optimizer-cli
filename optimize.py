@@ -1,0 +1,1 @@
+def clean(svg): return svg.strip()
